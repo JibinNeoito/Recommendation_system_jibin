@@ -1,2 +1,7 @@
 recommendation_system
 __pycache__
+addresses_and_holdings.py
+crypto_to_USD.py
+holdings_clean.csv
+requirements.txt
+symbol_price_check.py
